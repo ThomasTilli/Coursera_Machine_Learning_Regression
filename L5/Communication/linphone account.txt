@@ -1,0 +1,8 @@
+Linphone account
+user: ttilli
+pwd: 1Tantara#
+
+You can now use your linphone account with these parameters:
+Sip identity : sip:ttilli@sip.linphone.org
+Username : ttilli
+Domain / Proxy : sip.linphone.org
